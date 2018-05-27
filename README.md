@@ -30,7 +30,7 @@ npm start
 chromium-browser --headless --print-to-pdf="./resume.pdf" http://localhost:3000/index.html
 ```
 
-## documentation and references:
+## documentation and references
 
 - [A List Apart - Printing a Book with CSS: Boom!](http://alistapart.com/article/boom)
 - [Smashing Magazine - Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
